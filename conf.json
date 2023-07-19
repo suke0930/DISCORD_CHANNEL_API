@@ -1,0 +1,10 @@
+{
+    "token": "yourtokenhere",
+    "port": 10,
+    "temp1": {
+        "cid": ""
+    },
+    "temp2": {
+        "cid": ""
+    }
+}

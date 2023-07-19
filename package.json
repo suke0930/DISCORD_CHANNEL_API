@@ -1,0 +1,17 @@
+{
+  "name": "DISCORD_CHANNEL_API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Errors: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security",
+    "ws": "^8.13.0"
+  }
+}
